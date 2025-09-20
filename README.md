@@ -1,6 +1,6 @@
 # 🎾 Naïve Bayes on Play Tennis Dataset  
 
-*(This response is AI generated except dataset link for clarity 🙂)*  
+*(This Readme is AI generated except dataset link for clarity 🙂)*  
 
 ## Dataset  
 Kaggle link: [Play Tennis Dataset](https://www.kaggle.com/datasets/fredericobreno/play-tennis)  
